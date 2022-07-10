@@ -1,0 +1,361 @@
+{
+    "cars": [
+        {
+            "id_": 1,
+            "manufacturer": "Mazda",
+            "model": "RX-8",
+            "year": 2006,
+            "vin": "JTJBARBZ2F2356837"
+        },
+        {
+            "id_": 2,
+            "manufacturer": "Honda",
+            "model": "Civic Si",
+            "year": 2003,
+            "vin": "1N6AF0LY0FN792678"
+        },
+        {
+            "id_": 3,
+            "manufacturer": "Dodge",
+            "model": "Dakota",
+            "year": 2006,
+            "vin": "WAUDF78E18A830501"
+        },
+        {
+            "id_": 4,
+            "manufacturer": "Pontiac",
+            "model": "Fiero",
+            "year": 1988,
+            "vin": "4USDU53457L247065"
+        },
+        {
+            "id_": 5,
+            "manufacturer": "MINI",
+            "model": "Cooper",
+            "year": 2010,
+            "vin": "5N1AA0NE4EN264141"
+        },
+        {
+            "id_": 6,
+            "manufacturer": "Ford",
+            "model": "Expedition",
+            "year": 2007,
+            "vin": "JTDBT4K33B1334115"
+        },
+        {
+            "id_": 7,
+            "manufacturer": "Plymouth",
+            "model": "Colt",
+            "year": 1994,
+            "vin": "2G4GT5GC7B9974565"
+        },
+        {
+            "id_": 8,
+            "manufacturer": "Lotus",
+            "model": "Evora",
+            "year": 2012,
+            "vin": "3N1CN7AP8EK490449"
+        },
+        {
+            "id_": 9,
+            "manufacturer": "Audi",
+            "model": "S8",
+            "year": 2002,
+            "vin": "SAJWA4DC3FM713027"
+        },
+        {
+            "id_": 10,
+            "manufacturer": "Kia",
+            "model": "Sportage",
+            "year": 2011,
+            "vin": "3C6TD5GT0CG557688"
+        },
+        {
+            "id_": 11,
+            "manufacturer": "Lincoln",
+            "model": "Town Car",
+            "year": 1990,
+            "vin": "YV4902BZ0D1826438"
+        },
+        {
+            "id_": 12,
+            "manufacturer": "Bentley",
+            "model": "Azure",
+            "year": 2007,
+            "vin": "WVGAV3AX8EW863017"
+        },
+        {
+            "id_": 13,
+            "manufacturer": "Buick",
+            "model": "LeSabre",
+            "year": 1996,
+            "vin": "WBAWV53589P465532"
+        },
+        {
+            "id_": 14,
+            "manufacturer": "Hummer",
+            "model": "H1",
+            "year": 1998,
+            "vin": "WAUDFAFL0CA420327"
+        },
+        {
+            "id_": 15,
+            "manufacturer": "Ford",
+            "model": "Mustang",
+            "year": 1984,
+            "vin": "2LMHJ5FK0FB717916"
+        },
+        {
+            "id_": 16,
+            "manufacturer": "GMC",
+            "model": "Suburban 2500",
+            "year": 1998,
+            "vin": "1G4GA5EC3BF496919"
+        },
+        {
+            "id_": 17,
+            "manufacturer": "Honda",
+            "model": "CR-Z",
+            "year": 2011,
+            "vin": "JH4KB166X8C453068"
+        },
+        {
+            "id_": 18,
+            "manufacturer": "BMW",
+            "model": "M3",
+            "year": 2002,
+            "vin": "JN8BS1MW8EM485015"
+        },
+        {
+            "id_": 19,
+            "manufacturer": "Cadillac",
+            "model": "CTS",
+            "year": 2005,
+            "vin": "WA1EY94L89D839241"
+        },
+        {
+            "id_": 20,
+            "manufacturer": "Infiniti",
+            "model": "G",
+            "year": 2005,
+            "vin": "1C3CDZCB0CN486923"
+        },
+        {
+            "id_": 21,
+            "manufacturer": "Isuzu",
+            "model": "Rodeo",
+            "year": 1995,
+            "vin": "WAUSF98E27A905496"
+        },
+        {
+            "id_": 22,
+            "manufacturer": "Mitsubishi",
+            "model": "Eclipse",
+            "year": 2001,
+            "vin": "WBSBL93464P773208"
+        },
+        {
+            "id_": 23,
+            "manufacturer": "Chrysler",
+            "model": "Crossfire",
+            "year": 2007,
+            "vin": "WAU2GAFC5DN570755"
+        },
+        {
+            "id_": 24,
+            "manufacturer": "BMW",
+            "model": "X3",
+            "year": 2008,
+            "vin": "WBA3V9C53EP513619"
+        },
+        {
+            "id_": 25,
+            "manufacturer": "BMW",
+            "model": "3 Series",
+            "year": 2009,
+            "vin": "KNALN4D73F5848167"
+        },
+        {
+            "id_": 26,
+            "manufacturer": "Ford",
+            "model": "Thunderbird",
+            "year": 1985,
+            "vin": "5N1AA0ND1EN258384"
+        },
+        {
+            "id_": 27,
+            "manufacturer": "GMC",
+            "model": "Savana 3500",
+            "year": 2010,
+            "vin": "JA32X2HU8EU963041"
+        },
+        {
+            "id_": 28,
+            "manufacturer": "Ford",
+            "model": "F250",
+            "year": 2002,
+            "vin": "SCBLF34F74C052678"
+        },
+        {
+            "id_": 29,
+            "manufacturer": "Volvo",
+            "model": "S60",
+            "year": 2009,
+            "vin": "1GYS3CKJXFR083426"
+        },
+        {
+            "id_": 30,
+            "manufacturer": "Ford",
+            "model": "Mustang",
+            "year": 2009,
+            "vin": "1N6AA0CJ6EN227450"
+        },
+        {
+            "id_": 31,
+            "manufacturer": "GMC",
+            "model": "Sierra 1500",
+            "year": 2003,
+            "vin": "WAUXU64BX2N222422"
+        },
+        {
+            "id_": 32,
+            "manufacturer": "Mercedes-Benz",
+            "model": "Sprinter 3500",
+            "year": 2012,
+            "vin": "WBA6B4C58FD435768"
+        },
+        {
+            "id_": 33,
+            "manufacturer": "Lexus",
+            "model": "SC",
+            "year": 2002,
+            "vin": "JTEBU5JR2F5483361"
+        },
+        {
+            "id_": 34,
+            "manufacturer": "Chevrolet",
+            "model": "Silverado 2500",
+            "year": 1999,
+            "vin": "WAUEG78E46A471014"
+        },
+        {
+            "id_": 35,
+            "manufacturer": "Toyota",
+            "model": "Echo",
+            "year": 2003,
+            "vin": "1GT020CG6EF462327"
+        },
+        {
+            "id_": 36,
+            "manufacturer": "Mercedes-Benz",
+            "model": "SL-Class",
+            "year": 2005,
+            "vin": "WA1EY74L98D200952"
+        },
+        {
+            "id_": 37,
+            "manufacturer": "Chevrolet",
+            "model": "Colorado",
+            "year": 2007,
+            "vin": "3GYFNFE37ES336577"
+        },
+        {
+            "id_": 38,
+            "manufacturer": "Toyota",
+            "model": "Camry Hybrid_",
+            "year": 2011,
+            "vin": "KMHDB8AE8BU484611"
+        },
+        {
+            "id_": 39,
+            "manufacturer": "Lincoln",
+            "model": "Zephyr",
+            "year": 2006,
+            "vin": "WBAVT13506A837390"
+        },
+        {
+            "id_": 40,
+            "manufacturer": "Subaru",
+            "model": "Legacy",
+            "year": 1991,
+            "vin": "3C4PDDBG9FT038830"
+        },
+        {
+            "id_": 41,
+            "manufacturer": "Volvo",
+            "model": "S60",
+            "year": 2012,
+            "vin": "1G4GD5EG7AF402839"
+        },
+        {
+            "id_": 42,
+            "manufacturer": "Dodge",
+            "model": "Grand Caravan",
+            "year": 2002,
+            "vin": "JTHBW1GG4E1781699"
+        },
+        {
+            "id_": 43,
+            "manufacturer": "Lexus",
+            "model": "LX",
+            "year": 1997,
+            "vin": "3FAHP0JA7AR842055"
+        },
+        {
+            "id_": 44,
+            "manufacturer": "Mazda",
+            "model": "MX-6",
+            "year": 1994,
+            "vin": "KMHCT4AE3CU214978"
+        },
+        {
+            "id_": 45,
+            "manufacturer": "Dodge",
+            "model": "Dakota Club",
+            "year": 1996,
+            "vin": "5TDBM5G1XCS606240"
+        },
+        {
+            "id_": 46,
+            "manufacturer": "BMW",
+            "model": "7 Series",
+            "year": 2007,
+            "vin": "2HNYD18766H663862"
+        },
+        {
+            "id_": 47,
+            "manufacturer": "Mitsubishi",
+            "model": "Lancer",
+            "year": 2004,
+            "vin": "WAUKH98E86A384647"
+        },
+        {
+            "id_": 48,
+            "manufacturer": "Chevrolet",
+            "model": "Malibu",
+            "year": 2011,
+            "vin": "3C4PDCEG5CT715759"
+        },
+        {
+            "id_": 49,
+            "manufacturer": "Cadillac",
+            "model": "Seville",
+            "year": 1995,
+            "vin": "1C6RD7MT7CS142970"
+        },
+        {
+            "id_": 50,
+            "manufacturer": "Dodge",
+            "model": "Dakota Club",
+            "year": 2007,
+            "vin": "1C3CCBBB5EN367411"
+        },
+        {
+            "id_": 51,
+            "manufacturer": "Ford",
+            "model": "E-Series",
+            "year": 1991,
+            "vin": "1G6DM5EY2B0851319"
+        }
+    ]
+}
